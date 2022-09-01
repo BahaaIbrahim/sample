@@ -1,0 +1,14 @@
+table,
+tr,
+th,
+td {
+    border: 1px solid saddlebrown;
+    border-collapse: collapse;
+    padding: 1rem;
+}
+
+footer {
+    margin: 100vh auto auto auto;
+    text-align: center;
+    background-color: antiquewhite;
+}

@@ -1,0 +1,36 @@
+body {
+    background-color: #af8ea6;
+    color: white;
+    font-family: sans-serif;
+}
+
+nav {
+    background-color: #2e1114;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+}
+
+li {
+    margin: auto;
+    padding: 1rem;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #adadad;
+}
+
+
+footer {
+    margin: auto;
+    text-align: center;
+    background-color: #adadad;
+    padding: 1rem;
+}
